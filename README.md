@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, a high motivated and skilled software developer, with over 7 years of experience in developing innovative digital solutions.
+  Hi, a high motivated and skilled software developer, with over 8 years of experience in developing innovative digital solutions.
   <br>
   <br>
   🔬 I'm currently working on Remote.
